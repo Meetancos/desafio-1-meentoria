@@ -14,7 +14,7 @@ Queremos criar uma lista dos alunos que estão participando do Meentoria, nessa 
 
 Cada um de vocês vai ter que se adicionar na lista. Para fazer isso vai ser necessário que vocês façam uma Pull Request se adicionando na lista:
 
-- Façam um fork desse repositório. (2 pontos)
+- Façam um fork desse repositório. (1 pontos)
 - Clonem o seu fork na sua máquina.
 - Fazer uma branch com seu nome. (2 ponto)
 - Façam as alterações necessárias para ter seu perfil na lista. (2 pontos)
