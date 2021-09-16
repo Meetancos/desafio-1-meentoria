@@ -8,7 +8,7 @@ Esse é seu primeiro desafio na Meentoria, estamos fazendo-o para que você poss
 
 **Prazo**: 22/09/2021 às 18:00
 
-## Prolema
+## Problema
 
 Queremos criar uma lista dos alunos que estão participando do Meentoria, nessa lista vai conter o nome, foto de perfil, idade, cidade, link para a conta no GitHub e um pequeno texto do que o mentorado espera para os seus próximos dez anos de carreira / qual seu(s) sonhos. 
 
