@@ -10,7 +10,7 @@ Esse é seu primeiro desafio na Meentoria, estamos fazendo-o para que você poss
 
 ## Problema
 
-Queremos criar uma lista dos alunos que estão participando do Meentoria, nessa lista vai conter o nome, foto de perfil, idade, cidade, link para a conta no GitHub e um pequeno texto do que o mentorado espera para os seus próximos dez anos de carreira / qual seu(s) sonhos. 
+Queremos criar uma lista dos alunos que estão participando do Meentoria, nessa lista vai conter o nome, foto de perfil, idade, cidade, link para a conta no GitHub e um pequeno texto do que o meentorando espera para os seus próximos dez anos de carreira / qual seu(s) sonhos. 
 
 Cada um de vocês vai ter que se adicionar na lista. Para fazer isso vai ser necessário que vocês façam uma Pull Request se adicionando na lista:
 
