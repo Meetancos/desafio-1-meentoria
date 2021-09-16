@@ -40,9 +40,8 @@ bla bla bla
 ---
 ```
 
-### Lista de Mentorandos
+## Lista de Mentorandos
 
----
 #### Camilo Cunha de Azevedo
 <img src="https://user-images.githubusercontent.com/30880723/133533335-54e85b4b-2e45-480c-9a65-379a1663f12d.png" width="150"/>
 
