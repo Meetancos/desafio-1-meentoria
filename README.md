@@ -54,3 +54,14 @@ bla bla bla
 Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver como as pessoas que participam do programa estão se desenvolvendo e vendo seus sonhos acontecer. Para meu futuro eu espero conseguir entrar na Área de Pesquisa Acadêmica em Visão Computacional e IA e conseguir futuramente dar aulas de Programação em Universidades.
 
 ---
+#### Matheus Nunes Sena
+<img src="https://avatars.githubusercontent.com/u/32408957?s=400&u=6492206d6484686893ac44ec3d95c395290e47f6&v=4" width="150"/>
+
+**Idade**: 23 anos ||
+**Cidade**: Cachoeirinha ||
+**Link Github**: [Link](https://github.com/msena98)
+
+#### O que eu espero para meu futuro:
+Atualmente tenho me empenhado bastante em me tornar futuramente um grande desenvolvedor, desde os princípios básicos até os mais avançados, estou tendo o imenso apoio do projeto de Meentoria do Meetanços. Espero para meu futuro que eu me desenvolva cada vez mais, espero também participar de projetos que impactem a vida das pessoas, fazendo com que a tecnologia traga mais qualidade para vida das pessoas.
+
+---
