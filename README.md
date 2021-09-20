@@ -54,3 +54,14 @@ bla bla bla
 Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver como as pessoas que participam do programa estão se desenvolvendo e vendo seus sonhos acontecer. Para meu futuro eu espero conseguir entrar na Área de Pesquisa Acadêmica em Visão Computacional e IA e conseguir futuramente dar aulas de Programação em Universidades.
 
 ---
+#### Guilherme Farina Ojeda
+<img src="./imagens/bike.jpg" width="150"/>
+
+**Idade**: 37 anos ||
+**Cidade**: Sua Cidade ||
+**Link Github**: [Link](link do seu perfil)
+
+#### O que eu espero para meu futuro:
+bla bla bla
+
+---
