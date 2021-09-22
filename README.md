@@ -6,7 +6,9 @@ Esse é seu primeiro desafio na Meentoria, estamos fazendo-o para que você poss
 - [Consulte o Git4Noobs](https://github.com/DanielHe4rt/git4noobs);
 - Se e somente não encontrar o que está procurando e/ou ainda estiver com dificuldade pergunte a sua dúvida no Grupo do Whatsapp.
 
-**Prazo**: 23/09/2021 às 18:00
+**Prazo**: 23/09/2021 às 18:00 ¹ 
+
+¹ até dia 30/09/2021 para a Alessandra e Adriel que teve problemas com o equipamento.
 
 ## Problema
 
@@ -64,5 +66,17 @@ Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver
 
 #### O que eu espero para meu futuro:
 Eu espero ser um desenvolvedor/engenheiro de software competente. Mas para isso eu vejo que ainda tenho um longo caminho a trilhar, quero aprender muitas coisas para poder escrever um código de qualidade, me aprofundar em algoritmos, padrões de projeto, testes automatizados, arquitetura de software, etc. Também quero contribuir para o Open Source de alguma forma, e ajudar da outras pessoas da forma que estou sendo ajudado nesta mentoria.
+
+---
+
+#### Matheus Nunes Sena
+<img src="https://avatars.githubusercontent.com/u/32408957?s=400&u=6492206d6484686893ac44ec3d95c395290e47f6&v=4" width="150"/>
+
+**Idade**: 23 anos ||
+**Cidade**: Cachoeirinha ||
+**Link Github**: [Link](https://github.com/msena98)
+
+#### O que eu espero para meu futuro:
+Atualmente tenho me empenhado bastante em me tornar futuramente um grande desenvolvedor, desde os princípios básicos até os mais avançados, estou tendo o imenso apoio do projeto de Meentoria do Meetanços. Espero para meu futuro que eu me desenvolva cada vez mais, espero também participar de projetos que impactem a vida das pessoas, fazendo com que a tecnologia traga mais qualidade para vida das pessoas.
 
 ---
