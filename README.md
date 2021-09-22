@@ -63,5 +63,5 @@ Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver
 
 #### O que eu espero para meu futuro:
 Meu intuito é de atingir um nível de excelência nas habilidades que estamos desenvolvendo no curso. Em dez anos pretendo estar bem colocado no mercado de trabalho de TI, sempre adquirindo e repassando conhecimento, em aperfeiçoamento constante.
-teste
+
 ---
