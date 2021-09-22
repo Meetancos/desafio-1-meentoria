@@ -6,7 +6,9 @@ Esse é seu primeiro desafio na Meentoria, estamos fazendo-o para que você poss
 - [Consulte o Git4Noobs](https://github.com/DanielHe4rt/git4noobs);
 - Se e somente não encontrar o que está procurando e/ou ainda estiver com dificuldade pergunte a sua dúvida no Grupo do Whatsapp.
 
-**Prazo**: 23/09/2021 às 18:00
+**Prazo**: 23/09/2021 às 18:00 ¹ 
+
+¹ até dia 30/09/2021 para a Alessandra que teve problemas com o equipamento.
 
 ## Problema
 
