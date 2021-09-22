@@ -58,10 +58,10 @@ Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver
 <img src="./imagens/bike.jpg" width="150"/>
 
 **Idade**: 37 anos ||
-**Cidade**: Sua Cidade ||
-**Link Github**: [Link](link do seu perfil)
+**Cidade**: Canoas ||
+**Link Github**: [Link](https://github.com/bahterista)
 
 #### O que eu espero para meu futuro:
-bla bla bla
+Meu intuito é de atingir um nível de excelência nas habilidades que estamos desenvolvendo no curso. Em dez anos pretendo estar bem colocado no mercado de trabalho de TI, sempre adquirindo e repassando conhecimento, em aperfeiçoamento constante.
 
 ---
