@@ -56,6 +56,19 @@ bla bla bla
 Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver como as pessoas que participam do programa estão se desenvolvendo e vendo seus sonhos acontecer. Para meu futuro eu espero conseguir entrar na Área de Pesquisa Acadêmica em Visão Computacional e IA e conseguir futuramente dar aulas de Programação em Universidades.
 
 ---
+
+#### Gustavo Schneider
+<img src="https://avatars.githubusercontent.com/u/59072856?s=400&u=fc10cb8582e6c27670c609c6c2b19a40f0526f46&v=4" width="150"/>
+
+**Idade**: 22 anos ||
+**Cidade**: Bento Gonçalves ||
+**Link Github**: [Link](https://github.com/SttavoS)
+
+#### O que eu espero para meu futuro:
+Eu espero ser um desenvolvedor/engenheiro de software competente. Mas para isso eu vejo que ainda tenho um longo caminho a trilhar, quero aprender muitas coisas para poder escrever um código de qualidade, me aprofundar em algoritmos, padrões de projeto, testes automatizados, arquitetura de software, etc. Também quero contribuir para o Open Source de alguma forma, e ajudar da outras pessoas da forma que estou sendo ajudado nesta mentoria.
+
+---
+
 #### Matheus Nunes Sena
 <img src="https://avatars.githubusercontent.com/u/32408957?s=400&u=6492206d6484686893ac44ec3d95c395290e47f6&v=4" width="150"/>
 
