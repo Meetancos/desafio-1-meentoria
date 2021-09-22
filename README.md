@@ -56,3 +56,13 @@ bla bla bla
 Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver como as pessoas que participam do programa estão se desenvolvendo e vendo seus sonhos acontecer. Para meu futuro eu espero conseguir entrar na Área de Pesquisa Acadêmica em Visão Computacional e IA e conseguir futuramente dar aulas de Programação em Universidades.
 
 ---
+
+#### Fernanda Bottega Tomasini
+<img src="" width="150"/>
+
+**Idade**: 33 anos 🤦‍♀️||
+**Cidade**: Bento Gonçalves 🍇||
+**Link Github**: [Link](https://github.com/FerTomasini)
+
+#### O que eu espero para meu futuro:
+Espero no futuro ser uma desenvolvedora de sucesso ou algo próximo! É um longo caminho e muitos desafios a serem vencidos, mas seguimos na luta! Objetivo: ao exterior e além! ✈
