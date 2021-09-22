@@ -8,7 +8,7 @@ Esse é seu primeiro desafio na Meentoria, estamos fazendo-o para que você poss
 
 **Prazo**: 23/09/2021 às 18:00 ¹ 
 
-¹ até dia 30/09/2021 para a Alessandra que teve problemas com o equipamento.
+¹ até dia 30/09/2021 para a Alessandra e Adriel que teve problemas com o equipamento.
 
 ## Problema
 
