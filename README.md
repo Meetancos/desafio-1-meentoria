@@ -80,3 +80,15 @@ Eu espero ser um desenvolvedor/engenheiro de software competente. Mas para isso 
 Atualmente tenho me empenhado bastante em me tornar futuramente um grande desenvolvedor, desde os princípios básicos até os mais avançados, estou tendo o imenso apoio do projeto de Meentoria do Meetanços. Espero para meu futuro que eu me desenvolva cada vez mais, espero também participar de projetos que impactem a vida das pessoas, fazendo com que a tecnologia traga mais qualidade para vida das pessoas.
 
 ---
+
+#### Guilherme Farina Ojeda
+<img src="./imagens/bike.jpg" width="150"/>
+
+**Idade**: 37 anos ||
+**Cidade**: Canoas ||
+**Link Github**: [Link](https://github.com/bahterista)
+
+#### O que eu espero para meu futuro:
+Meu intuito é de atingir um nível de excelência nas habilidades que estamos desenvolvendo no curso. Em dez anos pretendo estar bem colocado no mercado de trabalho de TI, sempre adquirindo e repassando conhecimento, em aperfeiçoamento constante.
+
+---
