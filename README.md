@@ -92,3 +92,15 @@ Atualmente tenho me empenhado bastante em me tornar futuramente um grande desenv
 Meu intuito é de atingir um nível de excelência nas habilidades que estamos desenvolvendo no curso. Em dez anos pretendo estar bem colocado no mercado de trabalho de TI, sempre adquirindo e repassando conhecimento, em aperfeiçoamento constante.
 
 ---
+
+#### Fernanda Bottega Tomasini
+<img src="./imagens/foto.jpg" width="150"/>
+
+**Idade**: 33 anos ||
+**Cidade**: Bento Gonçalves ||
+**Link Github**: [Link](https://github.com/FerTomasini)
+
+#### O que eu espero para meu futuro:
+Espero no futuro ser uma desenvolvedora de sucesso ou algo próximo! É um longo caminho e muitos desafios a serem vencidos, mas seguimos na luta! Objetivo: ao exterior e além! ✈
+
+---
