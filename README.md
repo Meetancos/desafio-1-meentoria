@@ -104,3 +104,15 @@ Meu intuito é de atingir um nível de excelência nas habilidades que estamos d
 Espero no futuro ser uma desenvolvedora de sucesso ou algo próximo! É um longo caminho e muitos desafios a serem vencidos, mas seguimos na luta! Objetivo: ao exterior e além! ✈
 
 ---
+
+#### Adriel de Assis
+<img src="https://scontent.fpoa22-1.fna.fbcdn.net/v/t1.6435-1/p200x200/104434401_1342248015972330_7583891843181843675_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeH8RngPddZi8n7xBHKBRihS20VQ27LNOuLbRVDbss064pNeMbPQOM2cK8fNXh5G6rTBrNcNcdKlkbjuWLobkqvW&_nc_ohc=VCHxemh4e_cAX8uXDsg&_nc_oc=AQllsINTEGfTYtZdpAwzBg3XkZuI-_le6n4xPXEBsgqwHAh7v6a4HDovCisuvIb54L8&_nc_ht=scontent.fpoa22-1.fna&oh=4502843296cd2100a38da09a85ad5c58&oe=6178B5F6" width="150"/>
+
+**Idade**: 20 anos ||
+**Cidade**: Bento Gonçalves ||
+**Link Github**: [Link](https://github.com/JustTroll)
+
+#### O que eu espero para meu futuro:
+Espero ser um bom programador e aprender cada dia mais sobre novas coisas.
+
+---
