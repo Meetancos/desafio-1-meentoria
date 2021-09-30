@@ -115,4 +115,17 @@ Espero no futuro ser uma desenvolvedora de sucesso ou algo próximo! É um longo
 #### O que eu espero para meu futuro:
 Espero ser um bom programador e aprender cada dia mais sobre novas coisas.
 
----
+
+
+#### Alessandra  Colvara de Souza
+
+<img src = "https://user-images.githubusercontent.com/66797088/135378072-fad5957f-7e84-4ca0-87b3-d3cf5e442ebb.jpeg" width="150"/>
+
+**Idade**:29 anos ||
+**Cidade**: São Lourenço do Sul ||
+**Link Github**:[Link](https://github.com/alepeglow)
+
+#### O que eu espero para meu futuro:
+
+Espero no futuro ser uma boa desenvolvedora front-end de sucesso ou algo próximo! É um longo caminho e muitos desafios a serem vencidos, mas seguimos na luta! Objetivo: ao exterior e além! ✈
+
