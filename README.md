@@ -109,7 +109,7 @@ Espero ser um bom programador e aprender cada dia mais sobre novas coisas.
 
 <img src = "https://user-images.githubusercontent.com/66797088/135378072-fad5957f-7e84-4ca0-87b3-d3cf5e442ebb.jpeg" width="150"/>
 
-**Idade**:29 anos ||
+**Idade**: 29 anos ||
 **Cidade**: São Lourenço do Sul ||
 **Link Github**:[Link](https://github.com/alepeglow)
 
