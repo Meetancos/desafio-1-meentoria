@@ -45,18 +45,6 @@ bla bla bla
 
 ## Lista de Mentorandos
 
-#### Camilo Cunha de Azevedo
-<img src="https://user-images.githubusercontent.com/30880723/133533335-54e85b4b-2e45-480c-9a65-379a1663f12d.png" width="150"/>
-
-**Idade**: 26 anos ||
-**Cidade**: Bento Gonçalves ||
-**Link Github**: [Link](https://github.com/Camilotk)
-
-#### O que eu espero para meu futuro:
-Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver como as pessoas que participam do programa estão se desenvolvendo e vendo seus sonhos acontecer. Para meu futuro eu espero conseguir entrar na Área de Pesquisa Acadêmica em Visão Computacional e IA e conseguir futuramente dar aulas de Programação em Universidades.
-
----
-
 #### Gustavo Schneider
 <img src="https://avatars.githubusercontent.com/u/59072856?s=400&u=fc10cb8582e6c27670c609c6c2b19a40f0526f46&v=4" width="150"/>
 
