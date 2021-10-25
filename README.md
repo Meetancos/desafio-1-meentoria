@@ -60,5 +60,4 @@ Para os ícones, é recomendada a utilização de uma biblioteca, como o Font Aw
 - Layout Responsivo (3 pontos)
 - Hospedar no GitHub Pages (2 pontos)
 
-Desafio criado originalmente por <a href="https://github.com/Lorenalgm">Lorena</a> :)
-
+> Desafio criado originalmente por <a href="https://github.com/Lorenalgm">Lorena</a> :)
